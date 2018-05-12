@@ -1,0 +1,36 @@
+_repo: The-Military-Adventures-of-Johnny-NewcomeWith-an-Account-of-his-Campaign-on-the-Peninsula-and__44201
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rowlandson, Thomas
+    alias: Rowlandson, T. (Thomas)
+    birthdate: 1756
+    deathdate: 1827
+    gutenberg_agent_id: '28396'
+    url: http://www.gutenberg.org/2009/agents/28396
+covers:
+- cover_type: archival
+  image_path: 44201-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, David
+    birthdate: 1757
+    deathdate: 1819
+    gutenberg_agent_id: '42634'
+    url: http://www.gutenberg.org/2009/agents/42634
+description: ''
+gutenberg_issued: '2013-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Peninsular War, 1807-1814 -- Poetry'
+title: 'The Military Adventures of Johnny Newcome
+
+  With an Account of his Campaign on the Peninsula and in Pall Mall'
+url: http://www.gutenberg.org/ebooks/44201
